@@ -18,7 +18,7 @@
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}
-		
+
 }
 
 @media only screen and (min-device-width: 840px){
@@ -32,7 +32,7 @@
 		flex-wrap: wrap;
 		flex: 1;
 	}
-	section { 
+	section {
 	background-color: white;
 	width: 100%;
 	margin-left: auto;
@@ -74,7 +74,7 @@ h2,h3,h4 {
 
 p {
 	font-size: 1.4em;
-	color: black;
+	color:#39ff14;
 	padding: 10px 40px 10px 40px;
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .bg1 {
-	background-color: #ffe400;
+	background-color: #0800ff; //blue
 }
 
 .bg2 {
